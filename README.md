@@ -23,4 +23,6 @@ Styling: CSS
 
 Deployment: Netlify / Vercel (as applicable)
 
+Deployed Link: [https://kowsikadevi21082006.github.io/kowsika-portfolio]
+
 # kowsika-portfolio
